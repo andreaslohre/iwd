@@ -1,4 +1,4 @@
-module github.com/shibumi/iwd
+module github.com/andreaslohre/iwd
 
 go 1.14
 
